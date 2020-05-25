@@ -1,0 +1,198 @@
+html {
+    background: rgb(255, 255, 255)
+  }
+
+h2 {
+    font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 20px;
+text-transform: uppercase;
+
+color: rgba(0, 0, 0, 0.56);
+
+position: absolute;
+width: 109px;
+height: 20px;
+left: 33px;
+top: 67px;
+
+}
+  .tag, h1 {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #79D3D1;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(121, 211, 209, 0.19);
+    border-radius: 5px;
+    }
+
+.tagover, h1 {
+    width: 86px;
+height: 25px;
+font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.03);
+border-radius: 5px;
+
+}
+
+p {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    
+    color: rgba(0, 0, 0, 0.64);
+
+    position: absolute;
+
+left: 15px;
+top: 123px;
+}
+
+h3,.ou {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.64);
+    text-align: center;
+    
+     background: #FFFFFF;
+     box-shadow: 0px 2px 20px rgba(121, 211, 209, 0.34);
+    border-radius: 5px;
+    
+    position: absolute;
+    width: 90px;
+    height: 37px;
+    left: 15px;
+    top: 162px;
+    
+}
+
+h3, .qui{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.64);
+    text-align: center;
+    
+     background: #FFFFFF;
+     box-shadow: 0px 2px 20px rgba(121, 211, 209, 0.34);
+    border-radius: 5px;
+
+    position: absolute;
+width: 90px;
+height: 37px;
+left: 143px;
+top: 162px;
+
+}
+
+h3, .quand{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.64);
+    text-align: center;
+    
+     background: #FFFFFF;
+     box-shadow: 0px 2px 20px rgba(121, 211, 209, 0.34);
+    border-radius: 5px;
+    position: absolute;
+width: 90px;
+height: 37px;
+left: 268px;
+top: 162px;
+
+
+}
+
+
+img, .recherche {
+    border-radius: 4px;
+    position: absolute;
+width: 186px;
+height: 192px;
+left: 0px;
+top: 251px;
+}
+
+.recherche2 {
+    border-radius: 4px;
+    position: absolute;
+    width: 183px;
+    height: 192px;
+    left: 192px;
+    top: 251px;    
+}
+
+.recherche3 {
+    border-radius: 4px;
+    position: absolute;
+    width: 186px;
+height: 192px;
+left: 0px;
+top: 449px;    
+}
+
+.recherche4 {
+    border-radius: 4px;
+    position: absolute;
+    width: 183px;
+    height: 192px;
+    left: 192px;
+    top: 449px;
+      
+}
+
+.recherche5 {
+    border-radius: 4px;
+    position: absolute;
+width: 186px;
+height: 192px;
+left: 0px;
+top: 646px;
+}
+
+.recherche6 {
+    border-radius: 4px;
+    position: absolute;
+    width: 186px;
+    height: 192px;
+    left: 191px;
+    top: 646px;
+}
+
+.profil1 {
+    position: absolute;
+width: 106px;
+height: 106px;
+left: 40px;
+top: 463px;
+    border: 3px solid #79D3D1;
+    box-sizing: border-box;
+}
